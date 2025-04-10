@@ -4,10 +4,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moree7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=moree7&theme=algolia" alt="GitHub Trophies" />
   </a>
@@ -15,9 +11,18 @@
 
 ---
 
-### 📫 Contacto
+### 🎓 Formación Académica
 
-- Email: **daniel.moreno63@educa.madrid.org**
+- 📘 **Bachillerato en Ciencias Tecnológicas** 
+  - IES ....
+  - Enfocado en matemáticas, física, tecnología e informática.
+
+- 💻 **Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma)**  
+  - Actualmente cursando 1º año.
+  - Aprendiendo sobre programación, bases de datos", sistemas, entornos de desarrollo, y más.
+
+- ☕ **Curso de Java del SEPE**  
+  - Profundizando en programación orientada a objetos y desarrollo backend con Java.
 
 ---
 
@@ -51,7 +56,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moree7&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
 
+### 🧾 Otros datos
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moree7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- 📧 Email: **daniel.moreno63@educa.madrid.org**  
+- 💼 [LinkedIn]
+- 🐦 [Twitter]
+
+
+---
 
 
 
