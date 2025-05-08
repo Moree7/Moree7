@@ -19,7 +19,7 @@
 
 - 💻 **Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma)**  
   - Actualmente cursando 1º año.
-  - Aprendiendo sobre programación, bases de datos", sistemas, entornos de desarrollo, y más.
+  - Aprendiendo sobre programación, "bases de datos", sistemas, entornos de desarrollo, y más.
 
 - ☕ **Curso de Java del SEPE**  
   - Profundizando en programación orientada a objetos y desarrollo backend con Java.
